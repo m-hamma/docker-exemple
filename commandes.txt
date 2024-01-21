@@ -1,4 +1,8 @@
+1-install docker destkop
+
+
  docker build -t python-test . 
+
 
 docker run python-test
 
